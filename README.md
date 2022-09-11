@@ -12,7 +12,11 @@
 
 **Aplicações e Dados**
 
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Spring](https://img.shields.io/badge/Spring-333333?style=flat&logo=spring&logoColor=green)
+  ![AngularJS](https://img.shields.io/badge/AngularJS-333333?style=flat&logo=angularjs&logoColor=red)
+  ![Node.js](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js&logoColor=green)
+  ![.NET](https://img.shields.io/badge/.NET-333333?style=flat&logo=.net&logoColor=blue)
+  ![C#](https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp&logoColor=blue)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -20,6 +24,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  
 
 **Utilidades**
 
@@ -34,7 +39,8 @@
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  
+  ![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-333333?style=flat&logo=windows&logoColor=blue)
 
 <br/>
 
