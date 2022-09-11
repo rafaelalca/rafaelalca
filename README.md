@@ -4,7 +4,7 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Graduação Análise e Desenvolvimento de Sistemas** no <a href="https://estacio.br/">Universidade Estácio de Sá</a>.
+- 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://estacio.br/">Universidade Estácio de Sá</a>.
 - 💼 &nbsp; Trabalhando como **Desenvolvedor Web** na <a href="https://drogariavivabem.com.br/">Rede de Drogarias Viva Bem</a>
 - 🌱 &nbsp; Aprendendo mais sobre **C# ,   JAVA** .
 
