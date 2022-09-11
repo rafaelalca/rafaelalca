@@ -6,7 +6,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Graduação Análise e Desenvolvimento de Sistemas** no <a href="https://estacio.br/">Universidade Estácio de Sá</a>.
 - 💼 &nbsp; Trabalhando como **Desenvolvedor Web** na <a href="https://drogariavivabem.com.br/">Rede de Drogarias Viva Bem</a>
-- 🌱 &nbsp; Aprendendo mais sobre ** C  JAVA ** .
+- 🌱 &nbsp; Aprendendo mais sobre **C# ,   JAVA** .
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
